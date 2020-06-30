@@ -1,4 +1,4 @@
-#Make your GirlFriend Happy by Coding 
+# Make your GirlFriend Happy by Coding 
 
 I'm always working hard to make my GF happy by offering different surprises. Then I came into several ideas as contained in this repo:
  
